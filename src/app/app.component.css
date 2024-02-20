@@ -1,0 +1,21 @@
+.table {
+  width: 600px;
+}
+
+.row_table {
+  background: #c2c2c2;
+  transition: .1s linear;
+  cursor: pointer;
+}
+.row_table:hover {
+  background: #fff!important;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+}
+.name_audio {
+  font-size: 18px;
+}
